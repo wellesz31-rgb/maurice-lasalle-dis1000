@@ -290,7 +290,7 @@ if prompt := st.chat_input("Ask Maurice a question about DIS 1000..."):
             
             # Call Claude API (non-streaming for better compatibility)
             response = client.messages.create(
-                model="claude-sonnet-4-20250514",
+                model="claude-sonnet-4-6",
                 max_tokens=2000,
                 system=system_prompt,
                 messages=[
