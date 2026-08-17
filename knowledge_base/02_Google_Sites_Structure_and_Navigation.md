@@ -12,15 +12,17 @@ In DIS 1000, students create a Google Sites portfolio to document their work thr
 - Evidence of their learning and growth
 - A professional artifact they can share with others
 
-**Model Site:** https://sites.google.com/view/dis1000sp26/home
+**Model Site:** https://sites.google.com/view/dis1000fa26/home
 
-**Important:** This is the Spring 2026 model site. Always reference the most current model site provided by your instructor, as the link may change each semester.
+**Getting Started:** The Fall 2026 syllabus also specifies the required page structure directly (see below) and links a video walkthrough: https://www.youtube.com/watch?v=0woNTtlcxgM
 
-Students should reference the model site frequently to understand the expected structure and organization.
+**Important:** This is the Fall 2026 model site. Always reference the most current model site provided by your instructor, as the link changes each semester.
+
+Students should reference the model site and the syllabus's page structure frequently to understand the expected structure and organization.
 
 ---
 
-## Understanding the Model Site Structure
+## Understanding the Required Site Structure
 
 ### The Homepage
 
@@ -33,30 +35,17 @@ The homepage serves as the entry point and navigation hub for the entire site. I
 
 ### Main Navigation Structure
 
-The DIS 1000 ePortfolio uses a work-type organization rather than a weekly structure. According to the course syllabus, your site must have this structure:
+Per the Fall 2026 syllabus, the ePortfolio must have this structure:
 
-```
-Home
-├── About Me
-├── Best Possible Future
-Studio Work
-├── Work from Weeks 1-7
-├── Composition or Analysis Track assignments
-Fieldwork  
-├── Work from Weeks 8-15
-├── Teamwork projects
-├── Religious Music
-├── Live Music
-Resilience
-├── Weeks 1-7 Journal entries
-├── Self-Care Check-in
-Connection to Your Major
-├── Works from Weeks 12-15
-├── All CtM Scaffolding (Topic, Bibliography, Mind Map, Drafts)
-├── Final Paper
-```
+| Page | Contents |
+|---|---|
+| **Home** | About Me, Best Possible Future |
+| **Elements of Music** | Work from Weeks 1-7 |
+| **Teamwork!** | Work from Weeks 8-11 |
+| **Synthesis** | Work from Weeks 12-15 |
+| **Connection to Your Major** | All CtM Scaffolding and Final Paper |
 
-**Key principle:** The structure organizes work by TYPE (Studio, Field, etc.) rather than by week or date. This makes it easier to see your growth in each area of the course.
+**Key principle:** The structure organizes work by unit rather than by week or date. This makes it easier to see growth in each area of the course.
 
 ---
 
@@ -124,20 +113,20 @@ Connection to Your Major
    - **New link** (creates a navigation link to an external site)
 
 4. Select **"New page"**
-5. Type the page name (e.g., "Studio Work")
+5. Type the page name (e.g., "Elements of Music")
 6. Press Enter or click away
 
 **Result:** A new page appears in your Pages list and in your site navigation.
 
 ### Step 2: Create Sub-Pages (Nested Pages)
 
-To create a page hierarchy (like "Studio Work" with specific assignment pages underneath):
+To create a page hierarchy (like "Elements of Music" with specific assignment pages underneath):
 
 1. Click the **Pages** tab
-2. Find the main page you want to nest pages under (e.g., "Studio Work")
+2. Find the main page you want to nest pages under (e.g., "Elements of Music")
 3. Click the **three dots** (⋮) next to that page name
 4. Select **"Add subpage"** from the menu
-5. Name your sub-page (e.g., "Week 1 - About Me")
+5. Name your sub-page (e.g., "Week 1 - Soundscape from Memory")
 6. Press Enter
 
 **Result:** The new page appears indented under the main page, showing the hierarchy.
@@ -168,7 +157,7 @@ Pages appear in your navigation menu in the order they're listed in the Pages pa
 ### Keep It Simple and Organized
 
 **Good structure:**
-- Clear section names ("Studio Work", "Resilience")
+- Clear section names ("Elements of Music", "Teamwork!")
 - Logical groupings (all related assignments together)
 - Consistent naming (e.g., "Week 1 - Title", "Week 2 - Title")
 - Not too many levels (Home → Section → Assignment is usually enough)
@@ -178,13 +167,13 @@ Pages appear in your navigation menu in the order they're listed in the Pages pa
 - Too many sub-levels (Home → Section → Subsection → Sub-subsection → Assignment)
 - Inconsistent organization (some assignments by week, others by type)
 
-### Match the Model Site Structure
+### Match the Required Structure
 
-Students should generally follow the model site's organizational approach:
+Students should follow the syllabus's required structure:
 
-1. **Home page** as the entry point
-2. **Main sections** for major course components (Studio Work, Field Work, Resilience, Connection to Major)
-3. **Sub-pages** for individual assignments or project types within each section
+1. **Home page** as the entry point (About Me, Best Possible Future)
+2. **Elements of Music, Teamwork!, Synthesis, Connection to Your Major** as the four main unit sections
+3. **Sub-pages** for individual assignments or artifacts within each section
 
 **Why this matters:** Consistency makes it easier for instructors to review work and for students to navigate each other's sites.
 
@@ -354,7 +343,7 @@ After publishing:
 - Inconsistent page names (standardize them)
 - Pages in illogical order (rearrange using Pages panel)
 
-**Fix:** Review your Pages panel and reorganize to match the model site's clean hierarchy.
+**Fix:** Review your Pages panel and reorganize to match the required structure (Home, Elements of Music, Teamwork!, Synthesis, Connection to Your Major).
 
 ### "People can't see my site"
 
@@ -425,15 +414,15 @@ Let's walk through creating a typical assignment page from the actual DIS 1000 c
 
 ### Example: Creating the "About Me" Page
 
-This is your first assignment, due 1/7/26 according to the syllabus.
+This lives on your Home page, alongside Best Possible Future.
 
 1. **Create the page:**
    - Click **Pages** → **+ New page**
    - Name it: "About Me"
    - Make it a sub-page under "Home" (drag it slightly right under Home in the Pages list)
 
-2. **Add assignment content per syllabus:**
-   - The syllabus states: "ePortfolio set up: Create a Custom Header Image for your site, record a brief Intro Video (1-2 minutes) in which you introduce yourself, and embed it from YouTube (video can be Unlisted if you prefer)"
+2. **Add assignment content:**
+   - Typical Home page content includes a custom header image, a brief intro video, and a personal introduction — but check with your instructor for the exact current requirements, since the general syllabus doesn't spell out page-by-page content in this level of detail.
 
 3. **Add a header image:**
    - Click at the top of the page
@@ -441,17 +430,17 @@ This is your first assignment, due 1/7/26 according to the syllabus.
    - Upload your custom header image
    - Resize and position as desired
 
-4. **Embed your intro video:**
+4. **Embed your intro video (if required):**
    - Click where you want the video
    - Click **Insert** → **Embed**
    - Paste your YouTube video URL
    - Click **Insert**
    - The video player appears on your page
 
-5. **Add your Musical Life History:**
+5. **Add your written introduction:**
    - Click below the video
    - Click **Insert** → **Text box**
-   - Type or paste your Musical Life History text
+   - Type or paste your introduction text
    - Format with headings or bold text if needed
 
 6. **Preview and publish:**
@@ -465,11 +454,11 @@ This is your first assignment, due 1/7/26 according to the syllabus.
 
 ### Regular Comparison
 
-Students should periodically compare their site to the model site (https://sites.google.com/view/dis1000sp26/home):
+Students should periodically compare their site to the model site (https://sites.google.com/view/dis1000fa26/home) and the tutorial video (https://www.youtube.com/watch?v=0woNTtlcxgM):
 
 **Questions to ask:**
-1. Does my structure match the required sections (Home with About Me and Best Possible Future, Studio Work, Fieldwork, Resilience, Connection to Your Major)?
-2. Are my pages organized by work type (not by week)?
+1. Does my structure match the required sections (Home with About Me and Best Possible Future; Elements of Music; Teamwork!; Synthesis; Connection to Your Major)?
+2. Are my pages organized by unit (not by week)?
 3. Does my homepage provide a clear introduction with About Me content?
 4. Are my assignments in the right sections?
 5. Is my content clearly presented with appropriate formatting?
@@ -545,13 +534,13 @@ Students should periodically compare their site to the model site (https://sites
 
 ### Keep Your Structure Clean
 
-- Stick to the model site's organizational approach
+- Stick to the syllabus's required structure
 - Use clear, descriptive page names
 - Don't create unnecessary extra pages
 
 ### Ask for Help When Stuck
 
-- Check the model site first
+- Check the model site, syllabus structure, and tutorial video first
 - Use the teaching assistant for technical Google Sites questions
 - Don't spend hours fighting with the interface—get help quickly so you can focus on the actual coursework
 

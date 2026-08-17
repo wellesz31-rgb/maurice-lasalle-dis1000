@@ -84,17 +84,10 @@ This document compiles the most common technical issues students encounter in DI
 ### "My site structure doesn't match the model site"
 
 **Solution:**
-1. Visit the model site: https://sites.google.com/view/dis1000sp26/home
-2. Compare your Pages list to the model site's structure
-3. According to the syllabus, you need:
-   - **Home** (with About Me and Best Possible Future)
-   - **Studio Work**
-   - **Fieldwork**
-   - **Resilience**
-   - **Connection to Your Major**
-4. Create any missing pages
-5. Rearrange pages by dragging in the Pages list to match
-6. Publish after fixing
+1. Compare your Pages list to the current ePortfolio structure in **Document 2**
+2. Create any missing pages
+3. Rearrange pages by dragging in the Pages list to match
+4. Publish after fixing
 
 ---
 
@@ -247,10 +240,10 @@ This document compiles the most common technical issues students encounter in DI
 5. Don't overthink—experiment!
 
 **For specific assignments:**
-- **Sound Composition:** Try pads, ambient sounds, textured synths
-- **Beats and Loops:** Browse drum loops
-- **Emotional Melody:** Try piano, strings, or lead synths
-- **Blues:** Look for bass loops, blues piano, guitar sounds
+- **Soundscape from Memory (Week 1):** Try pads, ambient sounds, textured synths
+- **Rhythmic Loop or Beat (Week 3):** Browse drum loops
+- **Emotional Melody (Week 5):** Try piano, strings, or lead synths
+- **Genre Imitation Experiment (Week 6):** Browse loops/instruments matching the target genre's typical sounds
 
 **Remind students:** There's no "wrong" sound choice as long as it fits the assignment goals. The instructor evaluates creative decisions, not whether they picked the "perfect" sound.
 
@@ -304,7 +297,7 @@ This document compiles the most common technical issues students encounter in DI
    - **Bit depth:** 16 bit
 4. Click the **Export** button at the bottom
 5. Choose where to save (use a dedicated folder)
-6. Name your file clearly (e.g., `Turner_Week1_SoundComp.wav`)
+6. Name your file clearly (e.g., `Turner_Week1_SoundscapeFromMemory.wav`)
 7. Click **Save**
 8. Wait for the export to complete
 
@@ -488,157 +481,9 @@ This document compiles the most common technical issues students encounter in DI
 
 ---
 
-## Library Research Issues (Artist Profile & CtM)
+## Library Research (Connection to Your Major)
 
-### "How do I contact Bryan Nicholls or set up a library appointment?"
-
-**Bryan Nicholls Contact Information:**
-- Email: bnicholls@highpoint.edu
-- Phone: Check the library website for current number
-- Office: Smith Library
-- Online scheduling: Check the library website for booking system
-
-**To set up an appointment:**
-1. Email Bryan directly with your availability
-2. Or check the library website for an online scheduling system
-3. Mention you're from DIS 1000 and working on the Artist Profile (or Connection to Your Major)
-
-**If Bryan is not available:**
-- Any reference librarian can help with music research
-- Use the library's "Ask a Librarian" service
-- Try the live chat feature on the library website
-
----
-
-### "The library is fully booked / I can't get an appointment in time"
-
-**Options:**
-1. Use the library's live chat service (available on the library website)
-   - You can get research help in real-time
-   - Document the chat conversation (screenshot)
-2. Email a reference librarian with your research question
-   - They can respond with suggestions and resources
-   - Document the email exchange
-3. Visit the library reference desk during open hours
-   - Librarians are available for walk-in questions
-   - Ask for a business card or photo
-
-**Important:** Plan ahead! Don't wait until the day before the assignment is due to contact the library.
-
----
-
-### "I can't find enough sources about my artist"
-
-**Try these strategies:**
-
-**1. Use library databases:**
-- Music Index
-- Academic Search Complete
-- JSTOR (for academic articles)
-- ProQuest (for magazine and newspaper articles)
-
-**2. Expand your search terms:**
-- Try the artist's real name (not stage name)
-- Try genre terms (if searching for hip-hop artist, also search "hip hop" + "1990s" etc.)
-- Use AI to generate keyword suggestions: "What search terms should I use to find sources about [artist]?"
-
-**3. Use the Amazon → Library catalog trick:**
-- Search amazon.com for books about your artist
-- Note the ISBN
-- Search your library catalog using that ISBN
-- See if the library has it or can get it
-
-**4. Check Wikipedia strategically:**
-- Don't cite Wikipedia itself
-- Scroll to the bottom and look at the "References" section
-- Those are the original sources - track those down and use them
-
-**5. Broaden slightly:**
-- If your artist has very few sources, look for sources about their genre, era, or influences
-- Find sources that mention your artist alongside others
-
-**If you've tried all this and still can't find sources:** Talk to Mr. Turner about adjusting your topic.
-
----
-
-### "How do I cite this source in Chicago format?"
-
-**Step 1: Identify what type of source it is**
-- Book
-- Magazine/journal article
-- Website
-- Interview (print, video, podcast)
-- Album review
-- Etc.
-
-**Step 2: Use the Chicago Style Citation Guide**
-- https://guides.highpoint.edu/chicagomanual
-- Find the section for your source type
-- Follow the format exactly
-
-**Step 3: If using AI for help**
-- You can ask: "How do I cite a YouTube interview in Chicago Notes-Bibliography format?"
-- AI can explain the general structure
-- BUT you must verify against the official guide
-
-**Step 4: If using a citation generator (not recommended)**
-- Generate the citation
-- **Do NOT just copy and paste it**
-- Check it against the Chicago guide and correct any errors
-- You're responsible for accuracy, not the generator
-
-**Common mistakes to watch for:**
-- Capitalization (titles should be in title case)
-- Punctuation (commas, periods, quotation marks in specific places)
-- Author names (Last name, First name format)
-- Hanging indent for bibliography entries
-
-**Remember:** The assignment requires you to engage with the citation guide, not just outsource to a generator.
-
----
-
-### "Can I use Google for my research?"
-
-**Yes, but strategically:**
-
-**Google is fine for:**
-- Initial exploration and overview
-- Finding official artist websites or social media
-- Discovering what's out there
-
-**But also use library resources:**
-- Library databases have credible, peer-reviewed sources
-- Trade publications accessible through library subscriptions
-- Books and academic articles not available via Google
-
-**The goal:** Learn to use library resources, not just rely on Google. You'll need these skills for Connection to Your Major and future courses.
-
----
-
-### "Wikipedia says not to cite it - so can I use it at all?"
-
-**Yes, but strategically:**
-
-**What Wikipedia is good for:**
-- Getting a general overview of your artist
-- Understanding their career trajectory
-- Finding potential angles for your research
-
-**How to use it correctly:**
-1. Read the Wikipedia article
-2. Scroll to the bottom and look at "References" or "External links"
-3. Click on those sources and read the original articles/books
-4. **Cite the original sources, not Wikipedia**
-
-**Why this works:**
-- Wikipedia articles are written using sources
-- Those sources are usually credible
-- You're using Wikipedia as a finding tool, not a final source
-
-**What NOT to do:**
-- Copy information from Wikipedia and cite it
-- Treat Wikipedia as an authoritative source
-- Ignore the original sources
+The Artist Profile assignment has been retired. All library-research guidance that used to live here — contacting Bryan Nicholls, what to do if the library is fully booked, the Amazon-ISBN catalog trick, using Wikipedia as a finding tool, and Chicago citation guidance — has moved to **Document 7 (Connection to Your Major), Week 12**.
 
 ---
 
@@ -706,14 +551,14 @@ This document compiles the most common technical issues students encounter in DI
 
 ## Assignment-Specific Questions
 
-### "What counts as a 'sound composition' vs. a 'texture composition'?"
+### "What's the difference between the Week 1 and Week 2 compositions?"
 
 **This is a conceptual question—redirect to instructor.**
 
 **But you can help with the technical side:**
-- **Sound Composition (Week 1):** Focus on exploring timbres (qualities of sounds)
+- **Soundscape from Memory (Week 1):** Focus on exploring timbres (qualities of sounds) to recreate a remembered soundscape
   - Use varied instruments, effects, experimental sounds
-- **Texture Composition (Week 2):** Focus on how many things are happening at once
+- **Environmental Texture Composition (Week 2):** Focus on how many things are happening at once
   - Create contrasts: sparse sections (1-2 instruments) vs. dense sections (many instruments)
 
 ---

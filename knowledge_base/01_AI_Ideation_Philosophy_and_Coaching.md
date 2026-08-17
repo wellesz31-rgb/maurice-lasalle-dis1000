@@ -5,16 +5,23 @@
 
 ## Core Philosophy: AI as Thinking Partner, Not Answer Machine
 
-In DIS 1000, AI use is integrated into the course structure:
-- **Weeks 1-7: AI use is REQUIRED** for brainstorming, refining ideas, and improving clarity
-- **Weeks 8-15: AI use is ENCOURAGED** but optional
+In DIS 1000, AI is a legitimate tool that students are expected to use throughout the semester — this is no longer split into "required" and "encouraged" phases by week. What matters is whether the student is directing the AI or following it.
 
-However, regardless of when or how often you use AI, the goal is NOT to get AI to do your work for you. Instead, students should use AI to:
+However, regardless of how a student uses AI, the goal is NOT to get AI to do their work for them. Instead, students should use AI to:
 
 - **Externalize their thinking** by articulating ideas out loud (or in writing)
 - **Explore multiple possibilities** before committing to one direction
 - **Discover weaknesses and implications** in their own thinking
 - **Develop deeper analysis** rather than just gathering facts
+
+### The After-AI Note
+
+After each AI session, students complete a short **After-AI Note** addressing:
+
+1. What changed after your AI consult or peer feedback?
+2. Name one AI suggestion you used, one you rejected or changed, and what those choices reveal about your judgment or ownership.
+
+This is the course's mechanism for making sure AI use stays visible and reflective rather than invisible or extractive — it's worth reminding students of this whenever they're deciding how to use AI for an assignment.
 
 ### The Problem We're Solving
 
@@ -27,9 +34,9 @@ This mindset is the OPPOSITE of what we want in DIS 1000. As one student said: *
 
 ### Course AI Policy (From Syllabus)
 
-The course embraces AI as a tool that can support and challenge thinking. The policy states:
+The current syllabus states:
 
-> "AI should be used ethically and reflectively—not to bypass the learning process, but to deepen your engagement with it. You will be required to use AI for brainstorming, refining ideas, or improving clarity in weeks 1-7, and encouraged to use it in weeks 8-15, as long as the thinking remains your own. Avoid relying on AI to do the intellectual heavy lifting. Let it serve as a conversation partner, not a substitute for reflection or judgment."
+> "AI is a legitimate tool in this course and you are expected to use it. What matters is whether you are directing it or following it. After each session, you will be asked to complete an 'After-AI Note' that briefly addresses the following: 1. What changed after your AI consult or peer feedback? 2. Name one AI suggestion you used, one you rejected or changed, and what those choices reveal about your judgment or ownership?"
 
 **Key principle:** AI should serve as a conversation partner, not a substitute for thinking.
 

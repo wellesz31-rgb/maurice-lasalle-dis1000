@@ -219,6 +219,8 @@ Each of the four assignments (Weeks 8-11) follows this pattern:
 **Wednesday:** Deep work time, instructor and peer check-ins
 **Friday:** Presentations, feedback, Monopoly money settlement
 
+**Exception:** Week 11 (Music and Community) usually breaks this pattern — see that section below.
+
 **All work is collaborative and goes in the team's shared Google Doc.**
 
 ### Week 8: Hevner Mood Wheel (20 points)
@@ -277,6 +279,9 @@ Each of the four assignments (Weeks 8-11) follows this pattern:
 - Create and host a music-themed event (listening party, concert attendance, etc.), market to peers through Eventbrite, and gather post-event feedback
 - Team-branded report and reflection on project
 - Engagement with community-building concept
+- **Individual:** Connection to Major Research Question and Initial Source Trail (the formal start of the CtM project — see Document 7)
+
+**Schedule note:** This assignment usually gets an extension past the normal Friday deadline, since the event itself needs to happen over the weekend. The Friday class session that would otherwise be used for presentations/settlement is typically used instead for the library visit and introduction to the Connection to Your Major (CtM) project, which begins the following week (see the Connection to Your Major document for details).
 
 ---
 
@@ -308,7 +313,7 @@ Each of the four assignments (Weeks 8-11) follows this pattern:
 
 **For Field Work assignments:**
 - Students must **embed** the team's shared Google Doc into their individual portfolio site
-- This goes under the "Fieldwork" section of their site
+- This goes under the "Teamwork!" section of their site
 - Instructor grades down if students don't embed the team doc
 
 **Why embed rather than duplicate?**
@@ -319,7 +324,7 @@ Each of the four assignments (Weeks 8-11) follows this pattern:
 
 **How to embed a Google Doc in Google Sites:**
 1. Open your Google Site in edit mode
-2. Navigate to your Fieldwork section
+2. Navigate to your Teamwork! section
 3. Click Insert → Embed
 4. Paste the link to the team's shared Google Doc
 5. Click Insert
@@ -545,34 +550,6 @@ Mr. Turner's philosophy is that working through friction is part of learning tea
 - The worst outcome is being boring
 
 **Caveat:** The creativity should still engage with the assignment concepts, not just be random.
-
----
-
-## Religious Music and Live Music (Weeks 12-15)
-
-**Important:** These assignments are **NOT part of the teamwork unit.**
-
-### Week 12: Religious Music (20 points)
-
-- **Individual assignment** (no longer working in teams)
-- Students explore religious or spiritual music traditions
-- Completed individually and documented on individual Google Sites
-
-### Week 15: Live Music (20 points)
-
-- **Individual assignment**
-- Students attend a live music event and reflect on the experience
-- Documented individually on Google Sites
-
-**Why the shift?**
-- By Week 12, the "game" is over
-- Students transition from collaborative field work back to individual work
-- However, if the teamwork unit was successful, students may still choose to attend live music events together (even though it's not required)
-
-**From Mr. Turner:**
-> "If I do my job right, the groups are a little difficult to get back apart."
-
-**What this means:** Even though the assignments become individual again, the social bonds formed during Weeks 8-11 may persist.
 
 ---
 

@@ -13,6 +13,8 @@ After exporting a WAV file from Cakewalk, students need to:
 
 **Why this process?** Google Sites doesn't allow direct WAV file uploads. Instead, you upload to Google Drive and embed from there.
 
+**Note:** This document refers to WAV files throughout, since that's the required format for Cakewalk exports. If you're using Soundtrap on a free account, your exported file will be **MP3** instead — that's expected (see Document 3). Every step below works exactly the same way for an MP3 file as for a WAV file.
+
 ---
 
 ## Step 1: Upload WAV File to Google Drive
@@ -110,7 +112,7 @@ https://drive.google.com/file/d/1KnIsgcDn_55c_YAnKHvAaE9tS8t399kS/view?usp=shari
 1. Go to https://sites.google.com
 2. Open your DIS 1000 portfolio site (or create it if you haven't yet)
 3. Navigate to the page where you want to embed the audio
-   - For Studio Work assignments: go to your **Studio Work** section page
+   - For Weeks 1-7 composition assignments: go to your **Elements of Music** section page
    - Create a new sub-page if needed for this specific assignment
 
 ### Using the Embed Function

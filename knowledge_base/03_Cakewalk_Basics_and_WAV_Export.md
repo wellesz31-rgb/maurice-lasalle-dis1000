@@ -1,7 +1,22 @@
-# Cakewalk Basics & WAV Export
+# DAW Basics & Audio Export (Cakewalk & Soundtrap)
 ## DIS 1000 Teaching Assistant Knowledge Base
 
 ---
+
+## Overview: Two Tools for DIS 1000 Compositions
+
+Students use one of two digital audio workstations (DAWs) to create original music compositions for DIS 1000:
+
+- **Cakewalk Next** — a free DAW for Windows computers (Part 1, below)
+- **Soundtrap** — a free, browser-based DAW that works on any computer, including Mac and Chromebook (Part 2, below)
+
+**Students on Mac or Chromebook should use Soundtrap**, since Cakewalk isn't available on those platforms. Windows students can use either.
+
+**Key point:** Students don't need to become audio engineering experts in either tool. They need to know enough to create simple compositions and export/embed them in their Google Sites.
+
+---
+
+# Part 1: Cakewalk Next
 
 ## Overview: What is Cakewalk Next?
 
@@ -69,7 +84,7 @@ This is just the management interface. To actually start making music, you need 
 **To save:**
 1. Click **File** → **Save Project** (or press Ctrl+S)
 2. Choose a location (create a dedicated folder for your DIS 1000 projects)
-3. Give it a descriptive name (e.g., "Week1_Sound_Composition")
+3. Give it a descriptive name (e.g., "Week1_SoundscapeFromMemory")
 4. Click **Save**
 
 **File extension:** Cakewalk projects save as .cwp files. These are project files that contain all your tracks, settings, and edits—but they are NOT audio files. You'll need to export to WAV separately (see below).
@@ -357,7 +372,7 @@ After clicking "Export" at the bottom of the dialog:
    - Example: `Documents/DIS1000/Exports/`
 3. The file name is auto-filled (usually your project name)
    - You can rename it if desired
-   - **Use descriptive names:** `Turner_Week1_SoundComp.wav`
+   - **Use descriptive names:** `Turner_Week1_SoundscapeFromMemory.wav`
 4. Verify **Save as type:** shows `*.wav`
 5. Click **Save**
 
@@ -469,185 +484,271 @@ You don't have to create everything from scratch.
 If you're experimenting with major changes:
 
 1. **File** → **Save Project As**
-2. Add a version number or descriptor: `Week1_SoundComp_v2.cwp`
+2. Add a version number or descriptor: `Week1_SoundscapeFromMemory_v2.cwp`
 3. Now you can experiment without losing your original
 
 ---
 
+# Part 2: Soundtrap
+
+## Overview: What is Soundtrap?
+
+Soundtrap is a free, browser-based DAW. Unlike Cakewalk, it doesn't require installation and works on any computer with a modern browser — including Mac and Chromebook, where Cakewalk isn't available.
+
+**Important: DIS 1000 students use free, individual Soundtrap accounts** (not Soundtrap for Education). This has one significant consequence: **free accounts can only export MP3, not WAV.** For Soundtrap submissions specifically, MP3 is the required format instead of WAV — everything else about the workflow (uploading to Google Drive, embedding in Google Sites) works exactly the same either way. See Document 4 for the embedding steps; they apply to an MP3 file the same as a WAV file.
+
+## Getting Started with Soundtrap
+
+### Creating an Account
+
+1. Go to https://www.soundtrap.com
+2. Click **Sign Up**
+3. Create a free account (email, or sign in with Google/Facebook/Apple)
+4. No installation needed — Soundtrap runs entirely in the browser
+
+**System requirements:**
+- Any modern web browser (Chrome is recommended for the most reliable experience)
+- A stable internet connection — everything saves and processes in the cloud, so a poor connection will cause problems
+- A microphone if recording live audio
+
+### Starting a New Project
+
+1. From the Projects page, click **Create New**
+2. Choose **Music** (not Podcast) — Music mode is set up for composition work
+3. Soundtrap opens a blank project in the Studio
+
+**Saving:** Soundtrap autosaves continuously to the cloud — there's no separate "save" step the way there is in Cakewalk. But the project only exists online, so a poor connection can interrupt work in progress.
+
+## Understanding the Interface
+
+**Main workspace (center):** Tracks and the timeline, measured in bars.
+
+**Track headers (left):** Track name, volume, Mute/Solo, and Record Enable.
+
+**Loop Library (top right, note icon):** Opens the loop browser — filter by instrument or genre, search by keyword, and preview before dragging a loop onto a track.
+
+**Tempo/Key:** Shown near the bottom of the console — click to change either.
+
+**+ Add New Track:** On the left side of the workspace — click any time to add another track.
+
+## Working with Tracks and Loops
+
+### Adding a Track
+
+1. Click **+ Add New Track**
+2. Choose what the track is for (recording audio, an instrument, etc.)
+
+### Using the Loop Library
+
+This is the fastest way for most students to build a composition:
+
+1. Click the note icon in the upper right to open the Loop Library
+2. Browse by category (Drums, Bass, Piano, Guitar, Sound FX, etc.) or search by keyword
+3. Click a loop to preview it
+4. Drag it onto the timeline — Soundtrap creates the track automatically
+5. Repeat with more loops on additional tracks to build up the arrangement
+
+**Tip for students:** Same advice as Cakewalk — don't overthink it. Preview a few loops, drag in what sounds good, and adjust from there.
+
+### Recording Audio
+
+1. Add a new track and choose the microphone/audio option
+2. Allow microphone access when the browser prompts for it
+3. Click **Record Enable** on the track
+4. Click the main record button to start
+5. Perform, then stop — the recording appears on the track as a waveform
+
+## Applying Effects
+
+Soundtrap includes basic effects (reverb, EQ, delay, etc.) on each track, accessible from the track's effects panel. As with Cakewalk, **effects are optional for DIS 1000 assignments** — focus on getting the sounds and arrangement right first.
+
+## Arranging Your Composition
+
+Same structural thinking as Cakewalk: build in sections (intro, verse, chorus, etc.), use the grid to keep clips aligned to the beat, and layer or remove tracks to create contrast between sparse and dense sections.
+
+## Exporting Your Composition
+
+**Remember: free Soundtrap accounts can only export MP3 — that's expected and correct for this course.**
+
+### Step-by-Step Export Process
+
+1. From the **Projects** page, find your project
+2. Click the three-dot menu (⋯) next to it
+3. Select **Download** (or **Export**)
+4. Choose the audio format — select **MP3** (WAV and OGG will be grayed out on free accounts)
+5. Wait for the file to process and download to your computer
+
+**Alternative:** While inside the project (Studio view), click the **Export** button in the upper-right corner and follow the same format selection.
+
+**Where the file goes:** Like most browser downloads, it lands in your computer's Downloads folder unless you chose a different location.
+
+### Uploading and Embedding
+
+Once you have the MP3 file, the process is identical to the Cakewalk workflow: upload it to Google Drive, set sharing to "Anyone with the link," copy the link, and embed it in Google Sites. **See Document 4** — every step there applies the same way to an MP3 file as to a WAV file.
+
+## Common Soundtrap Issues
+
+### "I can't find the Download/Export option"
+Look for the three-dot menu (⋯) next to your project on the Projects page, or the **Export** button in the top-right corner while inside the project.
+
+### "WAV isn't available for me to select"
+Expected — free accounts only support MP3 export. Select MP3 and continue; it's the required format for Soundtrap submissions in this course.
+
+### "My project won't load / the browser is slow"
+- Make sure the browser is up to date (Chrome works most reliably)
+- Check the internet connection — Soundtrap needs a stable connection since everything runs in the cloud
+- Clear the browser cache if problems persist
+- Try a different browser if the issue continues
+
+### "It says my project is 'Mixing' and I can't download yet"
+Soundtrap is still processing the project on its servers. Wait a minute and try again — this is normal for longer or more complex projects.
+
+### "I can't hear any sound"
+- Check that tracks aren't muted
+- Check the computer's volume and that the browser tab isn't muted
+- Make sure the correct output device is selected in the computer's sound settings
+
+## Tips for Successful Compositions (Soundtrap)
+
+Same principles as Cakewalk: start simple (a loop or two), use the Loop Library liberally rather than building everything from scratch, and listen-and-adjust rather than trying to perfect one section before moving on.
+
+---
+
+# Shared Guidance (Both Tools)
+
 ## Assignment-Specific Guidance
 
-### Week 1: Sound Composition
+**Note:** The topic and assignment names below come directly from the syllabus schedule. The "Focus," "What to do," and tool-approach notes are reasonable inferences from those names and evidence titles, not quotes from a detailed assignment sheet — flag anything that doesn't match if you have the actual prompts.
 
-**Focus:** Exploring timbre (the quality/texture of sounds)
+Each week pairs a life-skill practice (not music-related — likely covered in the Resilience/life-skills side of the course, not here) with a music composition assignment. The guidance below focuses on the music side.
+
+### Week 1: Sound and Attention
+
+**Music assignment: Soundscape from Memory** (practice: Mindful Noting)
+
+**Focus:** Exploring timbre and attention — recreating a remembered soundscape through sound quality and texture
 
 **What to do:**
-- Experiment with different instruments and sound textures
-- Don't worry about melody or rhythm yet
-- Think about creating sonic landscapes
+- Think of a specific remembered place or moment and the sounds that defined it
+- Recreate that sonic memory using timbre and texture rather than melody or rhythm
 
 **Cakewalk approach:**
 - Browse instruments and try unusual sounds (pads, ambient sounds, sound effects)
-- Layer multiple instruments
+- Layer multiple instruments to build the remembered scene
 - Use effects like reverb and delay to create space
 
-### Week 2: Texture Composition
+**Soundtrap approach:**
+- Browse the Loop Library for ambient/atmospheric sounds and sound effects
+- Layer several loops to build texture
+- Use effects to add space and depth
 
-**Focus:** Linear vs. non-linear time, how much is going on
+### Week 2: Mood and Environment
+
+**Music assignment: Environmental Texture Composition** (practice: Time in Nature)
+
+**Focus:** How environment shapes mood — building texture through contrast between sparse and dense sections
 
 **What to do:**
-- Create contrasts between sparse sections (few instruments) and dense sections (many instruments)
-- Experiment with how many things are happening at once
+- Draw on a specific outdoor environment or natural setting
+- Create contrast between sparse sections (few sounds) and dense sections (many layered sounds)
 
 **Cakewalk approach:**
 - Start with one or two tracks, then add more progressively
 - Create sections with different levels of complexity
 
-### Week 3: Beats and Loops / Rhythm
+**Soundtrap approach:**
+- Start with one or two loops, then layer in more
+- Use the Loop Library's nature/ambient sounds and sound effects where available
 
-**Focus:** Pulse, grouping, meter (duple/triple, simple/compound)
+### Week 3: Momentum and Pattern
+
+**Music assignment: Rhythmic Loop or Beat** (practice: Exercise)
+
+**Focus:** Pulse, grouping, and meter — how repeated patterns create momentum
 
 **What to do:**
-- Work with drum patterns and rhythmic loops
-- Experiment with different time signatures if desired
+- Build a rhythmic loop or beat that establishes a clear pulse
+- Experiment with different groupings or time signatures if desired
 
 **Cakewalk approach:**
 - Use drum loops from the browser
 - Layer percussion sounds
 - Adjust tempo to change the feel
 
-### Week 4: Original Song (Short Form)
+**Soundtrap approach:**
+- Use the Loop Library's drum/percussion loops, or the Patterns Beatmaker for step-sequencing a beat
+- Layer percussion sounds
+- Adjust tempo to change the feel
 
-**Focus:** Creating a complete (though brief) song structure
+### Week 4: Disruption and Contrast
+
+**Music assignment: Structure Experiment** (practice: "What's Taking Shape?")
+
+**Focus:** How disruption and contrast shape structure — combining rhythm, bass, and melody into a recognizable but non-static form
 
 **What to do:**
 - Combine elements: rhythm, bass, melody
-- Create a recognizable song form (intro-verse-chorus or similar)
+- Build in a deliberate disruption or contrast — a moment that breaks the established pattern
 
 **Cakewalk approach:**
 - Use loops for rhythm and bass foundation
 - Add a melodic instrument for the main theme
-- Arrange into clear sections (copy/paste clips to create structure)
+- Arrange into clear sections, including one that disrupts the pattern (copy/paste clips to create structure)
 
-### Week 5: Emotional Melody
+**Soundtrap approach:**
+- Use Loop Library loops for rhythm and bass foundation
+- Add a melodic loop or instrument for the main theme
+- Arrange into clear sections, including one that disrupts the pattern
 
-**Focus:** How melody conveys emotion
+### Week 5: Tension, Release, and Emotional Shape
+
+**Music assignment: Emotional Melody** (practice: Sleep)
+
+**Focus:** How melody conveys emotion through tension and release
 
 **What to do:**
 - Create a melody that expresses a specific emotion
-- Think about contour (up and down movement), climax (high point)
+- Think about contour (up and down movement), climax (high point), and where tension resolves
 
 **Cakewalk approach:**
 - Choose a melodic instrument (piano, synth, strings)
 - Either use melodic loops or program notes in Piano Roll (more advanced)
 - Accompany with simple harmony/rhythm
 
-### Week 6: Autoharp / 16-Bar Blues
+**Soundtrap approach:**
+- Choose a melodic instrument from the Loop Library, or use the Sampler/keyboard if available
+- Accompany with a simple harmony or rhythm loop
 
-**Focus:** Harmony (vertical organization of pitch)
+### Week 6: Style, Identity, and AI
+
+**Music assignment: Genre Imitation Experiment** (practice: Self-Talk)
+
+**Focus:** How genre conventions construct identity — imitating a specific style's characteristic sounds and structure
 
 **What to do:**
-- Work with chord progressions
-- Understand how simultaneous notes create harmony
+- Choose a genre and identify its characteristic instrumentation, rhythm, and structure
+- Build a short piece that imitates that style
+- This week's AI consult is a natural fit for discussing what makes a genre recognizable — see Document 1
 
 **Cakewalk approach:**
-- For Autoharp: Find guitar or harp sounds, create simple chord progressions
-- For Blues: Use blues loops, bass lines, and blues piano/guitar sounds
-- Classic 12-bar or 16-bar blues structure
+- Browse instruments and loops that match the target genre's typical sounds
+- Pay attention to the genre's typical tempo, rhythm feel, and arrangement structure
 
-### Week 7: Artist Profile
+**Soundtrap approach:**
+- Browse the Loop Library, filtering by genre if available, for sounds that match the target style
+- Pay attention to the genre's typical tempo, rhythm feel, and arrangement structure
 
-#### Artist Profile Research 
+### Week 7
 
-**Focus:** Learning to use library resources for music research
+The Artist Profile assignment has been retired and replaced by the Weeks 12-15 Synthesis unit. The library-research guidance that used to live here (Bryan Nicholls contact info, the Amazon-ISBN trick, Wikipedia-as-finding-tool, Chicago citation guidance) now lives in **Document 7 (Connection to Your Major), Week 12**.
 
-This assignment teaches research skills that will be essential for the Connection to Your Major project later in the semester.
-
-**Part 1: Research (Due Week 6)**
-
-Students must work with a research librarian to find sources about their favorite musical artist.
-
-**Required sources (minimum 5):**
-- Article from a trade publication (Vibe, Source, Rolling Stone, etc.)
-- Album or single review
-- Interview (YouTube, podcast, print)
-- Other scholarly or credible sources
-
-**Working with the Research Librarian:**
-
-**Primary contact:** Bryan Nicholls at Smith Library
-- Students should set up an appointment with Bryan (or another librarian if Bryan is unavailable)
-- The librarian will help students use library databases, research guides, and the catalog
-- Students must document the meeting with a photo or signed business card
-
-**Research strategies Bryan Nicholls recommends:**
-
-1. **Start with library resources:**
-   - Use the Music Research Guide: https://guides.highpoint.edu/mus
-   - Search library catalog for books and articles
-   - Use library databases for trade publications and reviews
-
-2. **Supplement with strategic web searching:**
-   - Google is fine for initial exploration
-   - Amazon.com can be useful - find books about your artist, note the ISBN, then search the library catalog with that ISBN to see if the library has it
-   - Wikipedia is acceptable for overview, but DON'T cite Wikipedia itself - instead, go to the sources listed at the bottom of the Wikipedia article and explore those original sources
-
-3. **Use AI for keyword generation:**
-   - If you're struggling to find sources, ask AI: "What keywords should I use to search for academic sources about [artist]?"
-   - AI can suggest alternative search terms you might not have thought of
-   - But use the library databases for actual searching, not just AI
-
-**Creating the Bibliography:**
-
-Students must format their bibliography in Chicago Notes-Bibliography style.
-
-**Important: Discourage usage of citation generators!**
-
-**Why citation generators are problematic:**
-- They're often wrong or inconsistent
-- Students learn nothing about citation format
-- They create bad habits
-
-**The rule:**
-- Students can write citations themselves using the Chicago Style Citation Guide, OR
-- Students can use a citation generator and then CORRECT it using the guide
-- Either way, they must engage with the citation guide: https://guides.highpoint.edu/chicagomanual
-
-**Using AI for citations:**
-- You can ask AI: "How do I cite a magazine article in Chicago Notes-Bibliography format?"
-- AI can explain the format structure
-- BUT you must still check it against the official guide
-- And you're responsible for accuracy
-
-**Part 2: Synthesis (Due mid-week 7)**
-
-After gathering sources, students synthesize their research into:
-- 500-700 word paper OR 3-5 minute podcast
-- Must include: artist's musical style overview, personal connection to the artist, references to at least 2 songs
-- Link or embed to Google Site "Studio Work" page
-
-**Using AI for synthesis:**
-Students can use AI to help organize and clarify their writing, but NOT to write for them.
-
-**Good prompt example:**
-> "I'm writing a short profile of my favorite musical artist for a college music course. Please act as my writing assistant and help me develop a clear structure, organize ideas, and write in a personal but academic tone. Don't write for me, but help me to structure and polish my writing."
-
-**Students should:**
-- Use AI for brainstorming structure
-- Use AI for clarity and grammar checks
-- Use AI to identify weak or unclear passages
-- NOT use AI to generate the entire paper
-
-**Part 3: Peer Review and Reflection (Due end of week 7)**
-
-Students read/listen to a classmate's Artist Profile and write a 300-500 word reflection addressing:
-- Whose work did you review?
-- What did you learn from their research?
-- How did their work make you think differently about your own artist?
-- How does this connect to your own learning?
+Week 7 is now **Revision and Synthesis Studio** — students revisit and refine earlier work into a **Midterm Synthesis Artifact**, plus a **Process Note**. This is a revision week rather than a new composition, so the DAW guidance above (whichever tool the student used originally) still applies — the main technical question is usually "how do I go back and edit/improve a piece I already made," which the sections above already cover.
 
 ---
 
-## Troubleshooting Common Problems
+## Troubleshooting Common Problems (Cakewalk)
+
+**For Soundtrap issues, see the "Common Soundtrap Issues" section in Part 2 above.**
 
 ### "Cakewalk won't open / crashes on startup"
 
@@ -714,17 +815,16 @@ Students read/listen to a classmate's Artist Profile and write a 300-500 word re
 1. Save your project regularly while working (in case you need to edit it later)
 2. Export to WAV when finished (so you can submit it)
 
-### Always Export as WAV for This Course
+### Always Export as WAV for This Course — Except Soundtrap
 
-- Not MP3, not M4A, not OGG—**WAV** specifically
-- This is a course requirement
-- WAV is uncompressed and will work reliably for embedding in Google Sites
+- **Cakewalk:** Not MP3, not M4A, not OGG—**WAV** specifically. This is a course requirement; WAV is uncompressed and will work reliably for embedding in Google Sites.
+- **Soundtrap:** Free accounts can't export WAV, so **MP3 is the required (and only available) format** for Soundtrap submissions. This is an intentional exception, not a mistake.
 
 ### Name Your Files Clearly
 
 **Bad:** `audio.wav`, `export1.wav`, `final.wav`
 
-**Good:** `Turner_Week3_BeatsAndLoops.wav`, `SoundComposition_Jan9.wav`
+**Good:** `Turner_Week3_RhythmicLoop.wav`, `SoundscapeFromMemory_Jan9.wav`
 
 **Why:** You'll have multiple audio files throughout the semester. Clear names prevent confusion.
 
@@ -749,6 +849,8 @@ Before uploading to Google Drive and embedding in your site:
 - "My export has no sound—what did I do wrong?"
 - "What's the difference between an Audio Track and an Instrument Track?"
 - "How do I change the tempo of my project?"
+- "How do I get my Soundtrap file into MP3?"
+- "My Soundtrap project says it's 'Mixing' — what does that mean?"
 
 ### When Students Should Ask the Instructor
 
@@ -764,6 +866,8 @@ Before uploading to Google Drive and embedding in your site:
 ---
 
 ## Summary: The Core Workflow
+
+### Cakewalk
 
 1. **Open Cakewalk Next** and create a new project
 2. **Add tracks**: Insert Audio Tracks or Instrument Tracks
@@ -781,4 +885,16 @@ Before uploading to Google Drive and embedding in your site:
 9. **Verify the export** by playing it in a media player
 10. **Upload to Google Drive** and embed in your Google Site (see Document 4)
 
-That's it! You don't need to master every feature of Cakewalk—just these core steps will get you through all the composition assignments in DIS 1000.
+### Soundtrap
+
+1. **Open Soundtrap** (browser, no install) and create a new Music project
+2. **Add tracks**: + Add New Track, or drag loops in from the Loop Library
+3. **Add sounds**: Browse the Loop Library, drag loops onto the timeline
+4. **Arrange**: Place clips on the timeline to create structure
+5. **Adjust**: Tweak volumes, add effects (optional), refine arrangement
+6. Soundtrap **autosaves** — no separate save step
+7. **Export to MP3**: Projects page → ⋯ → Download/Export → select MP3
+8. **Verify the export** by playing the downloaded file
+9. **Upload to Google Drive** and embed in your Google Site (see Document 4) — same steps as Cakewalk, just an MP3 file instead of WAV
+
+That's it! You don't need to master every feature of either tool—just these core steps will get you through all the composition assignments in DIS 1000.
